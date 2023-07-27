@@ -6,17 +6,21 @@
 <p style="text-align:center;">Visite Meu <strong><a href="https://github.com/maliqto/">Github</a></strong>.</p>
 <br>
 <p style="text-align:center; color:red;"><strong>Purplenime - © All Rights Reserved.</strong>
-<style>
-img {
-  margin: 0 auto;
-  display: block;
-  margin-top: 20%;
-}
-</style>
 
 ## Instalação do Source
 
 para instalar a source em sua maquinha basta efetuar o download do próprio github ou pode me ajudar baixando neste [link](https://shrinke.me/B48mz0g)
+
+### imagens do site como está
+
+<h1> Index </h1>
+
+![](https://files.catbox.moe/ktkxw9.png)
+
+<h1>Categorias</h1>
+
+![](https://files.catbox.moe/3zhup5.png)
+
 
 
 
